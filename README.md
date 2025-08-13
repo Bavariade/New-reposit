@@ -1,5 +1,5 @@
 class Book:
-    de __init__(self, title, author, year):
+    def __init__(self, title, author, year):
         elf.title = title
         self.author = author
         self.year = year
