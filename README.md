@@ -1,4 +1,4 @@
-lss Book:
+lass Book:
     def __init__(self, title, author, year):
         elf.title = title
         self.author = author
