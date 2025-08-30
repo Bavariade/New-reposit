@@ -1,4 +1,4 @@
-lass Bok:
+lass Book:
     def __init__(self, title, author, year):
         elf.title = titl
         self.author = author
