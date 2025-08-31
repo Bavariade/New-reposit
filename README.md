@@ -1,6 +1,6 @@
 lass Book:
     def __init__(self, title, author, year):
-        elf.title = titl
+        elf.title = title
         self.author = author
         self.year = year
     
