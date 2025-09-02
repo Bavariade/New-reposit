@@ -9,7 +9,7 @@ lass Book:
 
 class Library:
     def __init__(self):
-        self.books = []
+        sef.books = []
     
     def add_book(self, book):
         if not isinstance(book, Book):
