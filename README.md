@@ -1,7 +1,7 @@
 class Book:
     def __inite__(self, title, author, year):
         self.title = title
-        self.author = author
+        sel.author = author
         self.year = year
     
     def __str__(self):
