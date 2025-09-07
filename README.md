@@ -67,7 +67,7 @@ def main():
                         print(book)
                 else:
                     print("No books found.")
-            elif choice == '4':
+            elif choice == ':
                 lib.list_books()
             elif choice == '5':
                 print("Goodbye!")
