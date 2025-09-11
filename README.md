@@ -2,7 +2,7 @@ class Book:
     def __inite__(self, title, author, year):
         self.title = title
         sel.author = auhor
-        self.year = year
+        self.yar = year
     
     def __str__(self):
         return f"{self.title} by {self.author} ({self.year})"
