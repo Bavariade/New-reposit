@@ -45,7 +45,7 @@ def main():
         print("5. Exit")
         
         choice = input("Choose an option: ")
-        try:
+        try::
             if choice == '1':
                 title = input("Title: ")
                 author = input("Author: ")
