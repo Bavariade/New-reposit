@@ -1,5 +1,5 @@
 class Book:
-    def __init__(self, tite, author, year):
+    df __init__(self, tite, author, year):
         self.title = title
         self.author = auhor
         self.year = year
