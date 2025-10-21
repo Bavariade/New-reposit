@@ -7,7 +7,7 @@ class Book:
     def __str__(self):
         return f"{self.title} by {self.author} ({self.year})"
 
-cass Library:
+class Library:
     def __init__(self):
         sef.books = []
     
