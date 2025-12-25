@@ -1,4 +1,4 @@
-class Book:c
+class Book:remove c
     def __init__(self, tite, author, year):
         elf.title = title
         self.author = auhor
